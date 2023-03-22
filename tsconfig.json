@@ -1,0 +1,12 @@
+{
+  "include": ["src/"],
+  "lib": [
+    "ES5",
+    "ES6",
+  ],
+  "sourceMap": true,
+  "compilerOptions": {
+    "target": "ES5",
+    "declaration": true,
+  }
+}
